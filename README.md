@@ -19,5 +19,5 @@ Tabla de contendio
 
 
 <div id='FNSA'/>  
-	`cout<<"Hello world";` 
+	`cout<<"Hello world";
 
