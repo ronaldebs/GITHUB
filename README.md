@@ -19,8 +19,5 @@ Tabla de contendio
 
 
 <div id='FNSA'/>  
-`INSTALACION DE PAQUETES
-NPM ISNTALL.`
-`INICIALIZAR EL SERVIDOR.`
-`DEFINICION DEL API`
+ Tables | Are | Cool | |----------|:-------------:|------:|
 
