@@ -19,5 +19,5 @@ Tabla de contendio
 
 
 <div id='FNSA'/>  
-	`<INSERT LINE`
+	`<INSERT LINE>COLOR="BLUE"`
 
