@@ -19,5 +19,5 @@ Tabla de contendio
 
 
 <div id='FNSA'/>  
-	`INSERT LINE`cout<<"Hello world";
+	`<<INSERT LINE`
 
