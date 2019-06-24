@@ -1,0 +1,11 @@
+{
+  "name": "codenotch-node",
+  "version": "10.0.0",
+  "main": "carpeta1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ronald",
+  "license": "ISC",
+  "description": "mi web"
+}

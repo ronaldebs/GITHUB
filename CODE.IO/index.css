@@ -1,0 +1,8 @@
+body{
+    background-image: url(.//images.jpg);
+    background-size: cover;
+}
+
+#drawFood{
+transition-duration:5s;
+}
